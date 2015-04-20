@@ -1,6 +1,6 @@
 {
   "name": "taco-git-push-deploy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "git push deploy with taco",
   "main": "index.js",
   "dependencies": {
