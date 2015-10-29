@@ -38,7 +38,8 @@ If you wan't to use a different build command than `npm install` etc you should 
 
 When you save and close this script file in your editor `taco-git-push-deploy` will login to
 your server, create a bare git repo, add your script as a `post-receive` hook and and the repo
-as a remote called `deploy` in your local repo
+as a remote called `deploy` in your local repo. If you want to name the remote something else
+you can use the `--remote [name]` option.
 
 Now all you need to do to deploy your app is
 
