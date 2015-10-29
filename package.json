@@ -4,6 +4,7 @@
   "description": "git push deploy with taco",
   "main": "index.js",
   "dependencies": {
+    "minimist": "^1.2.0",
     "string-editor": "^0.1.1"
   },
   "devDependencies": {},
