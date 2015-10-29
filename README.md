@@ -6,6 +6,8 @@ git push deploy with [taco](https://github.com/maxogden/taco)
 npm install -g taco-git-push-deploy
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/taco-git-push-deploy.svg?style=flat)](http://travis-ci.org/mafintosh/taco-git-push-deploy)
+
 ## Usage
 
 First go into your application that you want to deploy using `git push`
