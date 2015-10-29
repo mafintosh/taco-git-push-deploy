@@ -7,7 +7,12 @@
     "minimist": "^1.2.0",
     "string-editor": "^0.1.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "standard": "^5.3.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
   "bin": {
     "taco-git-push-deploy": "./bin.js"
   },
